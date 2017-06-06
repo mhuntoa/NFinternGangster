@@ -1,4 +1,4 @@
-####Day 2
+### Day 2
 ```
 git clone <url>
 git push -u origin <branch name> //-u means remember url
